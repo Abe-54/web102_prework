@@ -2,7 +2,7 @@
 
 Submitted by: **Abraham Rubio**
 
-**NSea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **1** hours spent in total
 
